@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'AnisetteStdPetite-Bold';}
+	.st2{font-size:77.7796px;}
+	.st3{stroke:#FFFFFF;stroke-width:8;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<g>
+		<path class="st0" d="M134.4,280c-1,0-1.9-0.2-2.9-0.5c-3.1-1.2-5.1-4.1-5.1-7.4l-0.2-59.2h-81c-8.9,0-16.2-8.2-16.2-18.2V26.2
+			C29,16.2,36.2,8,45.2,8h187.7c8.9,0,16.2,8.2,16.2,18.2v168.3c0,10.1-7.2,18.2-16.2,18.2h-33.3l-59.2,64.6
+			C138.7,279.1,136.6,280,134.4,280z"/>
+		<path d="M232.8,16c4.5,0,8.2,4.6,8.2,10.2v168.3c0,5.6-3.7,10.2-8.2,10.2H196L134.4,272l-0.2-67.2h-89c-4.5,0-8.2-4.6-8.2-10.2
+			V26.2c0-5.6,3.7-10.2,8.2-10.2H232.8 M232.8,0H45.2C31.8,0,21,11.8,21,26.2v168.3c0,14.5,10.8,26.2,24.2,26.2h73l0.2,51.2
+			c0,6.6,4.1,12.5,10.2,14.9c1.9,0.7,3.8,1.1,5.8,1.1c4.4,0,8.7-1.8,11.8-5.2l56.9-62h29.8c13.3,0,24.2-11.8,24.2-26.2V26.2
+			C257,11.8,246.2,0,232.8,0L232.8,0z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 61.0005 171.0234)" class="st1 st2">YOU</text>
+	</g>
+	<rect x="240" y="46.6" class="st0" width="4" height="3"/>
+	<rect x="240" y="104" class="st0" width="4" height="3"/>
+</g>
+<g id="Layer_2">
+	<g>
+		<text transform="matrix(1 0 0 1 3.0005 103.0234)" class="st3 st1 st2">THANK</text>
+	</g>
+	<g>
+		<rect x="34" y="103" class="st0" width="5" height="4"/>
+	</g>
+</g>
+<g id="Layer_3">
+	<g>
+		<text transform="matrix(1 0 0 1 3.0005 103.0234)" class="st1 st2">THANK</text>
+	</g>
+</g>
+</svg>
