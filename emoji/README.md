@@ -34,8 +34,12 @@ Other heart emojis are original creations but use elements from other Twemoji.
 
 ## Onomoatopoeia
 
-These are all original but I didn't save the source files so this is all you get. The font is [SF Slapstick](https://www.dafont.com/sf-slapstick-comic.font). 
+These are all original but I didn't save the source files so this is all you get. The font is [SF Slapstick](https://www.dafont.com/sf-slapstick-comic.font).
 
 ## Utility
 
 - `thank_you` font is [Anisette Std Petite](https://www.myfonts.com/collections/anisette-petite-font-typofonderie).
+
+## Others
+
+- The `tf-hazard` emoji is based on [the symbol created by Yaodema](https://cohost.org/yaodema/post/1056841-tf-hazard-symbol) and made available under the Creative Commons BY-NC licence.
